@@ -10,25 +10,18 @@
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt=FreeCodeCamp style="margin-bottom: 7px;" />
 </a>
 <br />
- 
-<br />
- 
 <img src="https://github.com/Oumayma-EL/Oumayma-EL/blob/main/pngegg%20(1).png" alt="Oumayma's Profile Image" style="width:700px;height:600px;">
 <br />
 <br />
-I am currently studying at the National School of Applied Sciences at OUJDA. I enjoy programming and learning new technologies BUT in python and no more. My main interests are learning how to build APIs and how to automate tasks, I'm always a newbie YES. In addition, I love open-source technologies and am fully inspired by them as a freedom and equality ideology.
-<br />
-<br />
-<br />
-
-Please feel free to clone/fork projects, raise issues and submit pull requests as well and look for improvements in my current small projects if you think something could be better.<br />
-Ask me anything by sending an email <a href="mailto:oumayma.elfahsi@ump.ac.ma"><b>here</b></a>.
-<br />
-
+  <h4>
+I am currently studying at the National School of Applied Sciences at OUJDA. I enjoy programming and learning new technologies BUT in python and no more. My main interests are learning how to build APIs and how to automate tasks, I'm always a newbie YES. In addition, I love open-source technologies and am fully inspired by them as a freedom and equality ideology.</h4>
+<h4>
+Please feel free to clone/fork projects, raise issues and submit pull requests as well and look for improvements in my current small projects if you think something could be better.</h4><br />
+<h5>Ask me anything by sending an email <a href="mailto:oumayma.elfahsi@ump.ac.ma"><b>here</b></a>.</h5>
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumayma-EL&layout=compact&theme=dark&bg_color=0A0A0A" alt="Oumayma Top Languages"/>
 <br />
-  <br />
+
 <br />
   <strong><i>I know the section above may appear useless 🤣, but as i said Python and nothing else or more !!!!</i></strong>
 <br />
