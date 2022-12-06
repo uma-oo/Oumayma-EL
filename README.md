@@ -14,7 +14,7 @@
 <br />
 <br />
   <h4>
-I am currently studying at the National School of Applied Sciences at OUJDA. I enjoy programming and learning new technologies BUT in python and no more. My main interests are learning how to build APIs and how to automate tasks, I'm always a newbie YES. In addition, I love open-source technologies and am fully inspired by them as a freedom and equality ideology.</h4>
+I am currently studying at the National School of Applied Sciences at OUJDA. I enjoy programming and learning new technologies BUT in python and no more. My main interests are learning how to build APIs and how to automate tasks, I'm always a newbie YES. In addition, I love open-source technologies and am fully inspired by them as an ideology of freedom, equality, and share and not only a way of developing software for free use as it might seem.</h4>
 <h4>
 Please feel free to clone/fork projects, raise issues and submit pull requests as well and look for improvements in my current small projects if you think something could be better.</h4><br />
 <h4>Ask me anything by sending an email <a href="mailto:oumayma.elfahsi@ump.ac.ma"><b>here</b></a>.</h5>
