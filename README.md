@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt=FreeCodeCamp style="margin-bottom: 7px;" />
 </a>
 <br />
-<img src="https://github.com/Oumayma-EL/Oumayma-EL/blob/main/pngegg%20(1).png" alt="Oumayma's Profile Image" style="width:600px;height:450px;">
+<!-- <img src="https://github.com/Oumayma-EL/Oumayma-EL/blob/main/pngegg%20(1).png" alt="Oumayma's Profile Image" style="width:600px;height:450px;"> -->
 <br />
 <br />
   <h3>
