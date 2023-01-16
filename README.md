@@ -19,7 +19,8 @@ I am currently studying at the National School of Applied Sciences at OUJDA. I e
 Please feel free to clone/fork projects, raise issues and submit pull requests as well and look for improvements in my current small projects if you think something could be better.</h3><br />
 <h3>Ask me anything by sending an email <a href="mailto:oumayma.elfahsi@ump.ac.ma"><b>here</b></a>.</h3>
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumayma-EL&layout=compact&theme=dark&bg_color=0A0A0A" alt="Oumayma Top Languages"/>
+![](https://raw.githubusercontent.com/Oumayma-EL/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Oumayma-EL/stats/master/generated/overview.svg#gh-light-mode-only)
 <br />
 
 <br />
