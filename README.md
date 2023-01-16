@@ -19,13 +19,12 @@ I am currently studying at the National School of Applied Sciences at OUJDA. I e
 Please feel free to clone/fork projects, raise issues and submit pull requests as well and look for improvements in my current small projects if you think something could be better.</h3><br />
 <h3>Ask me anything by sending an email <a href="mailto:oumayma.elfahsi@ump.ac.ma"><b>here</b></a>.</h3>
 <br />
-![](https://github.com/Oumayma-EL/stats/blob/master/generated/languages.svg)
   
- 
-<!--![](https://raw.githubusercontent.com/Oumayma-EL/stats/master/generated/overview.svg#gh-light-mode-only) -->
-<br />
+<img src= "https://github.com/Oumayma-EL/stats/blob/master/generated/overview.svg"  alt="Oumayma's Statistics">
+<img src="https://github.com/Oumayma-EL/stats/blob/master/generated/languages.svg" alt="Oumayma's Languages"> 
 
 <br />
+  <br>
   <strong><i>I know the section above may appear useless 🤣, but as i said Python and nothing else or more !!!!</i></strong>
 <br />
 <br />
