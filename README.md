@@ -1,8 +1,8 @@
 <div align="center">
 <h2><FONT COLOR="#61114d"> Hi There, Welcome to Oumayma's Github profile! </h2>
-<a href="https://www.linkedin.com/in/oumayma-el-fahsi-b0472620a/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/oumayma-el-fahsi-b0472620a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 7px;" />
-</a>
+</a> -->
 <a href="https://twitter.com/OumaymaEL_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 7px;" />
 </a>
